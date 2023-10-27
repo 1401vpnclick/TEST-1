@@ -1,1 +1,2 @@
-{"title":"سلام","message":"نسخه جدیدی از برنام با سرور های پرسرعت منتشر شده لطفا اخرین اپدیت را در کانال VPN Click دانلود کنید","dismissable":true,"dismissTxt":"بازگشت","okTxt":"بروزرسانی","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+
+{"title":"","message":"برای ویرایش این برنامه زحمت زیادی کشیده شده است، لطفا در چنل ما عضو شوید.","dismissable":true,"dismissTxt":"رد","okTxt":"عضویت","okUrl":"https://t.me/test2423884","status":"ok"}
