@@ -1,1 +1,1 @@
-{"title":"ظهر جمعه بخیر ","message":"نسخه جدیدی از برنامه در دسترس است لطفا ان را در کانال تلگرامی Vpm Click بروزرسانی کنید  ","dismissable":true,"dismissTxt":"استفاده از برنامه ","okTxt":"دانلود در تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+{"title":"سلام ","message":"نسخه جدیدی از این برنامه با سرور های سریع تر در دسترس است لطفا ان را همین الن بروز رسانی کنید ","dismissable":true,"dismissTxt":"بازگشت","okTxt":"بروزرسانی","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
