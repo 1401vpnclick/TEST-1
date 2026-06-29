@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی ","message":"هم اکنون اپدیت پرسرعتی از این بزنامه در دسترس هست برای استفاده از نسخه جدید وارد کانال تلگرام ما شوید 🔥","dismissable":true,"dismissTxt":"رد","okTxt":" عضویت در تلگرام 🟢","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok"}
+{"title":"کاربر گرامی ","message":"هم اکنون اپدیت پرسرعتی از این بزنامه در دسترس هست برای استفاده از نسخه جدید وارد کانال تلگرام ما شوید 🔥","dismissable":false,"dismissTxt":"رد","okTxt":" عضویت در تلگرام 🟢","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok"}
