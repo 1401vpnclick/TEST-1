@@ -1,9 +1,1 @@
-{
-  "title":"سلام",
-  "message":"نسخه جدیدی از این برنامه با سرور های سریع تر در دسترس است لطفا آن را همین الان بروزرسانی کنید",
-  "dismissable":true,
-  "dismissTxt":"بازگشت",
-  "okTxt":"بروزرسانی",
-  "okUrl":"tg://resolve?domain=Vpn_Click",
-  "status":"ok"
-}
+{"title":"کاربر گرامی ","message":"هم اکنون اپدیت پرسرعتی از این بزنامه در دسترس هست برای استفاده از نسخه جدید وارد کانال تلگرام ما شوید 🔥","dismissable":true,"dismissTxt":"رد","okTxt":" عضویت در تلگرام 🟢","okUrl":"tg://resolve?domain=Vpn_irany","status":"ok"}
