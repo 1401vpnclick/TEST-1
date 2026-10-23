@@ -1,9 +1,7 @@
 {
-  "enabled": true,
   "title": "سلام",
   "message": "برای استفاده از برنامه در کانال ما بپیوندید",
   "button_text": "عضویت در کانال",
   "button_url": "https://t.me/Vpn_irany",
-  "show_cancel": true,
-  "cancel_text": "بستن برنامه"
+  "show_cancel": true
 }
