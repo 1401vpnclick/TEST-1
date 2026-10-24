@@ -1,7 +1,7 @@
-{
-  "title": "سلام",
-  "message": "برای استفاده از برنامه در کانال ما بپیوندید",
-  "button_text": "عضویت در کانال",
-  "button_url": "https://t.me/Vpn_irany",
-  "show_cancel": true
-}
+show=true
+title=کاربر گرامی
+message=به کانال ما عضو شو
+join_text=عضویت در کانال
+join_link=https://t.me/Vpn_irany
+cancel_show=true
+cancel_text=بعداً
