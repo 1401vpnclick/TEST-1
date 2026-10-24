@@ -1,15 +1,15 @@
 show=true
 title=کاربر گرامی
-message=به کانال ما عضو شو
+message=به کانال ما عضو شو بوس ممنون بیا تو دیگه 
 join_text=عضویت در کانال
 join_link=https://t.me/Vpn_irany
-cancel_show=true
+cancel_show=false
 cancel_text=بعداً
 
 # ===== رنگ‌ها (اختیاری) — اگر خالی بگذاری، از تم خود برنامه استفاده می‌شود =====
 # فرمت: #RRGGBB  یا  #AARRGGBB  (مثلا #FF0000 قرمز)
-bg_color=#FFFFFF
+bg_color=#FF222233
 title_color=#111111
 message_color=#333333
-join_color=#1E88E5
+join_color=#FF0000
 cancel_color=#888888
