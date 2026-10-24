@@ -1,3 +1,4 @@
+{
 show=true
 title=کاربر گرامی
 message=به کانال ما عضو شو
@@ -5,3 +6,4 @@ join_text=عضویت در کانال
 join_link=https://t.me/Vpn_irany
 cancel_show=true
 cancel_text=بعداً
+}
